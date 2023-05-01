@@ -1,8 +1,9 @@
 # Проект 0. Угадай число
 
 ## Оглавление
-[1. Описание проекта](https://github.com/Cherant1976/sf_data_science/tree/main/Project0/REAME.md#Описание-проекта)
-[2. Какой кей решаем](https://github.com/Cherant1976/sf_data_science/tree/main/Project0/REAME.md#Какой-кейс-решаем)
+[1. Описание проекта](https://github.com/Cherant1976/sf_data_science/tree/main/Project0/REAME.md#Описание-проекта) 
+
+[2. Какой кейс решаем](https://github.com/Cherant1976/sf_data_science/tree/main/Project0#Какой-кейс-решаем)
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное количество попыток.
