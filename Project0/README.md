@@ -1,3 +1,5 @@
+[Переход  в корневую папку](https://github.com/Cherant1976/sf_data_science/tree/main)
+
 # Проект 0. Угадай число
 
 ## Оглавление
@@ -25,4 +27,4 @@
 ### Краткая информация о данных
 .....
 
-:arrow_up:[к оглавлению](https://github.com/Cherant1976/sf_data_science/tree/main/Project0/README.md#Описание-проекта)
+:arrow_up:[к оглавлению](https://github.com/Cherant1976/sf_data_science/tree/main/Project0/README.md#Переход-в-корневую-папку)
