@@ -2,8 +2,11 @@
 
 ## Оглавление
 [1. Описание проекта](https://github.com/Cherant1976/sf_data_science/tree/main/Project0/README.md#Описание-проекта)
+
 [2. Какой кейс решаем](https://github.com/Cherant1976/sf_data_science/tree/main/Project0/README.md#Какой-кейс-решаем)
+
 [3. Краткая информация о данных](https://github.com/Cherant1976/sf_data_science/tree/main/Project0/README.md#Краткая-информация-о-данных)
+
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное количество попыток.
