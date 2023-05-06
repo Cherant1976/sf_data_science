@@ -46,8 +46,8 @@
 :arrow_up:[к оглавлению](https://github.com/Cherant1976/sf_data_science/tree/main/Project0/README.md#Оглавление)
 
 
-### Результаты:  
-Алгоритм для определения случайного числа составлен
+### Результат:  
+Найден алгоритм для определения случайного числа составлен
 
 :arrow_up:[к оглавлению](https://github.com/Cherant1976/sf_data_science/tree/main/Project0/README.md#Оглавление)
 
