@@ -4,19 +4,19 @@
 # Проект 0. Угадай число
 
 ## Оглавление  
-[1. Описание проекта](.README.md#Описание-проекта)  
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
-[5. Результат](.README.md#Результат)    
-[6. Выводы](.README.md#Выводы)  
-[7. Ссылка на задание в Google Colab](.README.md#Ссылка-на-задание-в-Google-Colab)
+[1. Описание проекта](https://github.com/Cherant1976/sf_data_science/tree/main/Project0/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/Cherant1976/sf_data_science/tree/main/Project0/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/Cherant1976/sf_data_science/tree/main/Project0/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/Cherant1976/sf_data_science/tree/main/Project0/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/Cherant1976/sf_data_science/tree/main/Project0/README.md#Результат)    
+[6. Выводы](https://github.com/Cherant1976/sf_data_science/tree/main/Project0/README.md#Выводы)  
+[7. Ссылка на задание в Google Colab](https://github.com/Cherant1976/sf_data_science/tree/main/Project0/README.md#Ссылка-на-задание-в-Google-Colab)
 
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[к оглавлению](https://github.com/Cherant1976/sf_data_science/tree/main/Project0/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -36,26 +36,26 @@
 ### Краткая информация о данных
 Случайное число задаётся в интервале от 1 до 101
   
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Cherant1976/sf_data_science/tree/main/Project0/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
 1. Определение алгоритма
 2. Переложение алгоритма в Python
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Cherant1976/sf_data_science/tree/main/Project0/README.md#Оглавление)
 
 
 ### Результаты:  
 Алгоритм для определения случайного числа составлен
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Cherant1976/sf_data_science/tree/main/Project0/README.md#Оглавление)
 
 
 ### Выводы:  
 Получил небольшой, но полезный опыт работы в VS и github
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Cherant1976/sf_data_science/tree/main/Project0/README.md#Оглавление)
 
 ###
 [Ссылка на задание в Google Colab](https://colab.research.google.com/drive/1tmaWjLUpjyaOwoCygKRAtR92b9py1lBb?usp=sharing)
