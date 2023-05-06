@@ -41,7 +41,7 @@
 
 ### Этапы работы над проектом  
 1. Определение алгоритма
-2. Переложение алгоритма в Python
+2. Переложение алгоритма в Python ([game_core_v3.py](https://github.com/Cherant1976/sf_data_science/blob/main/Project0/game_v3.py))
 
 :arrow_up:[к оглавлению](https://github.com/Cherant1976/sf_data_science/tree/main/Project0/README.md#Оглавление)
 
