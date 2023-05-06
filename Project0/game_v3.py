@@ -23,11 +23,11 @@ def game_core_v3(number: int = 1) -> int:
     # из интервала поиска с "загаданным" числом
     while number != predict:
         count += 1      
-        number = number_min + int((number_max-number_min)/2)
+        number = number_min + int( (number_max-number_min) / 2 )
         if number > predict:
-            number_max=number                
+            number_max = number                
         elif number < predict:
-            number_min=number
+            number_min = number
     # Ваш код заканчивается здесь
 
     return count
