@@ -9,8 +9,8 @@
 [3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
 [5. Результат](.README.md#Результат)    
-[6. Выводы](.README.md#Выводы) 
-[7. Ссылка на код в Google Colab](.README.md#Ссылка-на-код-в-Google-Colab)
+[6. Выводы](.README.md#Выводы)  
+[7. Ссылка на код в Google Colab](.README.md#Ссылка-на-задание-в-Google-Colab)
 
 
 ### Описание проекта    
@@ -58,6 +58,6 @@
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
 ###
-[ССылка на код в Google Colab (Подход 3)](https://colab.research.google.com/drive/1tmaWjLUpjyaOwoCygKRAtR92b9py1lBb?usp=sharing)
+[Ссылка на задание в Google Colab](https://colab.research.google.com/drive/1tmaWjLUpjyaOwoCygKRAtR92b9py1lBb?usp=sharing)
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
