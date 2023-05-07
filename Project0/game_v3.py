@@ -9,25 +9,26 @@ def game_core_v3(number: int = 1) -> int:
         int: Число попыток
     """
     # Ваш код начинается здесь
+    #Количество попыток
     count = 0
-    # Объявляются переменные/границы для задания случайного числа
-    rand_max = 101
-    rand_min = 1
-    #np.random.seed(1)  # При необходимости фиксируем сид для воспроизводимости
-    predict = np.random.randint(rand_min, rand_max)
+
     # Перовначальные границы интервала поиска равны границам задания случайного числа
-    number_max = rand_max
-    number_min = rand_min
+    number_min = 1
+    number_max = 101
     
+    #Т.к. я оставил в начале кода count=0, то predict не должен быть в загадываемом диапазоне.
+    # Если predict будет равен числу из диапазона, то можно сразу угадать с 0 попытки  
+    predict = 0 
+
     # В цикле меняем границы интервала поиска в зависимости от сравнения числа 
     # из интервала поиска с "загаданным" числом
     while number != predict:
         count += 1      
-        number = number_min + int( (number_max-number_min) / 2 )
-        if number > predict:
-            number_max = number                
-        elif number < predict:
-            number_min = number
+        predict = number_min + int((number_max-number_min)/2)
+        if predict > number:
+            number_max = predict                
+        elif predict < number:
+            number_min = predict
     # Ваш код заканчивается здесь
 
     return count
